@@ -1,54 +1,15 @@
-# Portfolio Project
+# Power BI Dashboards
 
-This repository contains all the necessary files and documentation for the Portfolio Project. The project is divided into several key areas, each focused on different aspects of development and data management.
+This directory contains all files and documentation related to the creation and refinement of Power BI dashboards.
 
 ## Table of Contents
-- [GitHub Setup](#github-setup)
-- [SQL Server Database](#sql-server-database)
-- [Data Generation](#data-generation)
-- [PowerApps Development](#powerapps-development)
-- [Power BI Dashboards](#power-bi-dashboards)
-- [Documentation and Presentation](#documentation-and-presentation)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Create Dashboards](#create-dashboards)
+- [Refine Dashboards](#refine-dashboards)
 
-## GitHub Setup
-1. **Create GitHub Profile**: Complete.
-2. **Complete Profile**: Complete.
-3. **Create Repository**: Complete.
+## Create Dashboards
+Instructions and files for creating Power BI dashboards are located in the `dashboards` directory. Follow the [Power BI guide](https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview) to get started.
 
-## SQL Server Database
-1. **Install SQL Server**: Pending.
-2. **Design Database Schema**: Pending.
-3. **Develop API**: Pending.
-4. **Document API**: Pending.
+## Refine Dashboards
+Guidelines and files for refining and improving dashboards are located in the `refinement` directory. Use these resources to enhance the visual appeal and functionality of your dashboards.
 
-## Data Generation
-1. **Write Data Scripts**: Pending.
-2. **Schedule Daily Inserts**: Pending.
-
-## PowerApps Development
-1. **Develop PowerApps**: Pending.
-2. **Integrate with SQL Server**: Pending.
-
-## Power BI Dashboards
-1. **Create Dashboards**: Pending.
-2. **Refine Dashboards**: Pending.
-
-## Documentation and Presentation
-1. **Write README File**: Pending.
-2. **Develop Presentation**: Pending.
-
-## Getting Started
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-- SQL Server
-- Power BI
-- PowerApps
-
-### Installation
-1. Clone the repository
-   ```sh
-   git clone https://github.com/Felipealribeiro/Portfolio.git
+For more information, refer to the [Power BI visualization guide](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a).
