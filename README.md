@@ -2,6 +2,8 @@
 
 This repository contains all the necessary files and documentation for the Portfolio Project. The project is divided into several key areas, each focused on different aspects of development and data management.
 
+[Trello Roadmap](https://trello.com/b/JZ1pyVbA/portifolio-project)
+
 ## Table of Contents
 - [GitHub Setup](#github-setup)
 - [SQL Server Database](#sql-server-database)
