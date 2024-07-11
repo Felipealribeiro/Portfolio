@@ -21,8 +21,8 @@ This repository contains all the necessary files and documentation for the Portf
 3. **Create Repository**: Complete.
 
 ## SQL Server Database
-1. [Install SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/sql-server-installation-guide?view=sql-server-ver15): Pending.
-2. [Design Database Schema](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-design?view=sql-server-ver15): Pending.
+1. [Install SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/sql-server-installation-guide?view=sql-server-ver15): Complete.
+2. [Design Database Schema](https://docs.microsoft.com/en-us/sql/relational-databases/databases/database-design?view=sql-server-ver15): Complete.
 3. Develop API: Pending.
 4. Document API: Pending.
 
